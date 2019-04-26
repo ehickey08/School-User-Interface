@@ -39,4 +39,4 @@ Stretch goals are not required. Complete the project objectives before working o
 
 - [ ] Research CSS animations and see how you could implement some ideas when hovering over buttons or navigation items
 
-ethan-hickey. Adding name for Git Development Project
+ethan-hickey. Adding name for Git Development Project - added in the correct branch this time!
